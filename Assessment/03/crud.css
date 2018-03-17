@@ -1,0 +1,14 @@
+.table_read {
+  border-collapse: collapse;
+}
+
+.table_read, 
+.table_read  tr, 
+.table_read td
+{
+  border: 1px solid black;
+}
+
+.read_only {
+  background-color: lightgrey;
+}
